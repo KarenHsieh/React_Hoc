@@ -1,0 +1,14 @@
+.container {
+  width: 275px;
+  height: 306px;
+  box-sizing: 'border-box';
+  box-shadow: 0 0 12px rgba(0,0,0,.5);
+  margin: 10px;
+}
+
+.image {
+  width: 100%;
+  height: 150px;
+  background-image: url("https://image.kkday.com/v2/image/get/w_481%2Ch_280%2Cc_fill%2Cq_55%2Ct_webp/s1.kkday.com/product_101517/20200930090317_fdZeA/jpg");
+  background-size: cover;
+}
